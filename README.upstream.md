@@ -1,7 +1,7 @@
 Installation
 ============
 
-See [INSTALL.md](INSTALL.md) file.
+See [INSTALL.md](https://git.unitek-systems.com/UniCORE/UniCORE.Dovecot/src/branch/main/INSTALL.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE.Dovecot/blob/main/INSTALL.md)) file.
 
 
 Configuration
